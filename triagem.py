@@ -12,4 +12,3 @@ else:
         else:
           print("O paciente " + nome + " NÃO possui atendimento prioritário e pode aguardar na sala comum!")
 
-    #o elif é uma segunda chance de dizer sim, caso if e elif de não, ai sim entra o else#
